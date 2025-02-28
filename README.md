@@ -6,8 +6,8 @@ This python script can run on almost any machine!
 
 > " A cloudy ocean "
 
-<img src="cloudy-ocean.png">
+<img src="cloudy-ocean.png" height="100">
 
 > " A forest "
 
-<img src="forest.png">
+<img src="forest.png" height="100">
