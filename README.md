@@ -13,10 +13,10 @@ This python script can run on almost any machine!
 <img src="forest.png" height="150">
 
 > " A volcanic land "
-> 
+
 <img src="volcanic-land.png" height="150">
 
-The images can be blured to produce beutiful blured backgrounds.
+The images can be blurred to produce beautiful blurred backgrounds.
 
 <img src="blur1.png" height="150">
 <img src="blur2.png" height="150">
