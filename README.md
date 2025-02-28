@@ -11,3 +11,7 @@ This python script can run on almost any machine!
 > " A forest "
 
 <img src="forest.png" height="100">
+
+> " A volcanic land "
+> 
+<img src="volcanic-land.png" height="100">
